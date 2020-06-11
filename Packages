@@ -1,0 +1,14 @@
+Package: com.mobivio.cutecut
+Version:0.0.1-2
+Architecture: iphoneos-arm 
+Maintainer: abdulAziz
+Depends: 
+Conflicts:
+Filename: deb/	cutecut_0.0.1-2+debug_iphoneos-arm-1.deb
+Size: 56304
+MD5sum: da71a74d372bcbfd5bcba1d94a2240f6
+SHA1: 729aa78be8147055e22dd78939d9971e315a1797
+SHA256: 7f6b219a90e66dfc013b783dda92dd8634f9fa745b1f960c61cef4d33a771f2b
+Section: Tweaks 
+Depiction: https://cydia12.github.io/cyd_ia1/
+Name:cute cut +2
