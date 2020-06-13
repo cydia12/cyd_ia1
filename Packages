@@ -1,0 +1,14 @@
+Package: com.exile90.icleanerpro
+Version: 0.0.1-1
+Architecture:
+Maintainer: abdulAziz1
+Depends:
+Conflicts:
+Filename: deb/com.crazymind90.fvxddxak_0.0.1-1+debug_iphoneos-arm.deb
+Size: 57336
+MD5sum: 00c409cb9b0c9437fb94fd9fb10bfffa
+SHA1: af957c3c2311fee1948dcdaeffabb91420edb120
+SHA256: ab592253776cc7562cade20e01f29b65aa5726b5f8729248501f1d7b89d48641
+Section: Tweaks 
+Depiction: https://cydia12.github.io/cyd_ia1/
+Name: CleanerNoAd
