@@ -12,3 +12,19 @@ SHA256: ab592253776cc7562cade20e01f29b65aa5726b5f8729248501f1d7b89d48641
 Section: Tweaks 
 Depiction: https://cydia12.github.io/cyd_ia1/
 Name: CleanerNoAd
+
+
+Package: sa.alrajhibank.retailapp
+Version: 0.0.1-1
+Architecture:
+Maintainer: abdulAziz1
+Depends:
+Conflicts:
+Filename: deb/kr.xsf1re.alrajhimobilebypass_0.0.1_iphoneos-arm.deb
+Size: 104
+MD5sum: eae5580a7e022c9149eeb0da04d90e4b
+SHA1: 72f685c343ca8bece7d09c768b1603be9e2d3592
+SHA256: 322f9bef42a83ffb0234200341617f9c8937c040fb7f00bfe383794f53a14ffd
+Section: Tweaks 
+Depiction: https://cydia12.github.io/cyd_ia1/
+Name: AlrajhiMobileBypass1
